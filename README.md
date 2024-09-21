@@ -6,4 +6,7 @@ this is demo for Git &amp; GitHub class
 neha yadav
 
 # Student
-Monika
+manya
+
+# marks
+92
